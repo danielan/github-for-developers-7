@@ -3,3 +3,4 @@
 * Where am I from - Wyoming
 * My favorite food - Steak
 * My hobby - Computing
+* My favorite color - Blue
